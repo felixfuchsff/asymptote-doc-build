@@ -1,0 +1,12 @@
+<map id="marker" name="marker">
+<area shape="rect" id="node1" title=" " alt="" coords="186,436,249,463"/>
+<area shape="rect" id="node2" href="$structpicture.html" title=" " alt="" coords="187,347,248,373"/>
+<area shape="rect" id="node3" href="$structpicture_1_1node3.html" title=" " alt="" coords="7,243,111,269"/>
+<area shape="rect" id="node4" title=" " alt="" coords="138,124,193,151"/>
+<area shape="rect" id="node10" href="$structLegend.html" title=" " alt="" coords="135,243,199,269"/>
+<area shape="rect" id="node5" href="$structevaluatedpoint.html" title=" " alt="" coords="5,124,112,151"/>
+<area shape="rect" id="node6" href="$structbounds.html" title=" " alt="" coords="223,243,287,269"/>
+<area shape="rect" id="node7" href="$structpicture_1_1bounds3.html" title=" " alt="" coords="311,243,430,269"/>
+<area shape="rect" id="node8" href="$structcoords3.html" title=" " alt="" coords="337,124,405,151"/>
+<area shape="rect" id="node9" href="$structcoord.html" title=" " alt="" coords="343,5,398,32"/>
+</map>

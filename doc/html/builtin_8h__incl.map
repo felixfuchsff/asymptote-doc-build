@@ -1,0 +1,52 @@
+<map id="asymptote/builtin.h" name="asymptote/builtin.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1530,5,1662,32"/>
+<area shape="rect" id="node2" href="$vm_8h.html" title=" " alt="" coords="1839,453,1889,480"/>
+<area shape="rect" id="node24" href="$types_8h.html" title=" " alt="" coords="357,453,422,480"/>
+<area shape="rect" id="node33" href="$arrayop_8h.html" title=" " alt="" coords="1558,80,1634,107"/>
+<area shape="rect" id="node3" href="$errormsg_8h.html" title=" " alt="" coords="1794,528,1878,555"/>
+<area shape="rect" id="node4" title=" " alt="" coords="647,827,719,853"/>
+<area shape="rect" id="node5" title=" " alt="" coords="1874,603,1953,629"/>
+<area shape="rect" id="node6" href="$common_8h.html" title=" " alt="" coords="1388,752,1471,779"/>
+<area shape="rect" id="node14" href="$settings_8h.html" title=" " alt="" coords="1009,603,1087,629"/>
+<area shape="rect" id="node20" href="$symbolmaps_8h.html" title=" " alt="" coords="2028,603,2135,629"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1263,827,1332,853"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1357,827,1417,853"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1441,827,1503,853"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1527,827,1619,853"/>
+<area shape="rect" id="node11" href="$memory_8h.html" title=" " alt="" coords="2007,827,2086,853"/>
+<area shape="rect" id="node12" title=" " alt="" coords="2441,901,2511,928"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1953,901,2063,928"/>
+<area shape="rect" id="node15" title=" " alt="" coords="825,752,892,779"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1033,677,1113,704"/>
+<area shape="rect" id="node17" href="$pair_8h.html" title=" " alt="" coords="701,677,755,704"/>
+<area shape="rect" id="node19" href="$item_8h.html" title=" " alt="" coords="1543,677,1601,704"/>
+<area shape="rect" id="node18" title=" " alt="" coords="650,752,715,779"/>
+<area shape="rect" id="node21" title=" " alt="" coords="1727,677,1831,704"/>
+<area shape="rect" id="node22" title=" " alt="" coords="2084,677,2135,704"/>
+<area shape="rect" id="node23" title=" " alt="" coords="2007,677,2060,704"/>
+<area shape="rect" id="node25" title=" " alt="" coords="265,528,322,555"/>
+<area shape="rect" id="node26" href="$symbol_8h.html" title=" " alt="" coords="385,677,460,704"/>
+<area shape="rect" id="node27" href="$util_8h.html" title=" " alt="" coords="463,528,513,555"/>
+<area shape="rect" id="node32" href="$primitives_8h.html" title=" " alt="" coords="346,528,435,555"/>
+<area shape="rect" id="node28" title=" " alt="" coords="144,603,235,629"/>
+<area shape="rect" id="node29" title=" " alt="" coords="259,603,319,629"/>
+<area shape="rect" id="node30" title=" " alt="" coords="343,603,406,629"/>
+<area shape="rect" id="node31" title=" " alt="" coords="431,603,503,629"/>
+<area shape="rect" id="node34" href="$stack_8h.html" title=" " alt="" coords="2037,379,2102,405"/>
+<area shape="rect" id="node36" href="$array_8h.html" title=" " alt="" coords="1484,379,1545,405"/>
+<area shape="rect" id="node37" href="$fileio_8h.html" title=" " alt="" coords="1262,155,1322,181"/>
+<area shape="rect" id="node45" href="$callable_8h.html" title=" " alt="" coords="1781,304,1859,331"/>
+<area shape="rect" id="node49" href="$mathop_8h.html" title=" " alt="" coords="2311,304,2387,331"/>
+<area shape="rect" id="node35" href="$absyn_8h.html" title=" " alt="" coords="1965,453,2033,480"/>
+<area shape="rect" id="node38" title=" " alt="" coords="1455,229,1508,256"/>
+<area shape="rect" id="node39" href="$triple_8h.html" title=" " alt="" coords="1211,603,1272,629"/>
+<area shape="rect" id="node40" href="$guide_8h.html" title=" " alt="" coords="793,528,857,555"/>
+<area shape="rect" id="node41" href="$pen_8h.html" title=" " alt="" coords="1287,304,1342,331"/>
+<area shape="rect" id="node42" href="$camperror_8h.html" title=" " alt="" coords="484,677,575,704"/>
+<area shape="rect" id="node43" href="$interact_8h.html" title=" " alt="" coords="1883,229,1959,256"/>
+<area shape="rect" id="node44" href="$asyprocess_8h.html" title=" " alt="" coords="1330,229,1430,256"/>
+<area shape="rect" id="node47" href="$asyparser_8h.html" title=" " alt="" coords="1417,304,1508,331"/>
+<area shape="rect" id="node48" href="$locate_8h.html" title=" " alt="" coords="1014,528,1082,555"/>
+<area shape="rect" id="node46" href="$inst_8h.html" title=" " alt="" coords="1782,379,1837,405"/>
+<area shape="rect" id="node50" href="$mod_8h.html" title=" " alt="" coords="2361,453,2420,480"/>
+</map>

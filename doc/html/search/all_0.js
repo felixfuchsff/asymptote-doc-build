@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['_5f_5fdel_5f_5f_0',['__del__',['../classasymptote_1_1asy.html#a4bdeef7a2c9c9edb162e6fb2412760ed',1,'asymptote::asy']]],
+  ['_5f_5ffftwpp_5fh_5fversion_5f_5f_1',['__FFTWPP_H_VERSION__',['../fftw_09_09_8h.html#a955481498176056f1f6cacc173c264c4',1,'fftw++.h']]],
+  ['_5f_5finit_5f_5f_2',['__init__',['../classgen__preprocessed__depfile_1_1CompileOptions.html#a92466056ed25950e7416533809655e28',1,'gen_preprocessed_depfile.CompileOptions.__init__()'],['../classruntime_1_1FunctionData.html#a327b87aa14aeec5138d8eb612ac2c47e',1,'runtime.FunctionData.__init__()'],['../classasymptote_1_1asy.html#a87b2d1664f571f154ea87e3386aebaa0',1,'asymptote.asy.__init__()']]],
+  ['_5fall_5fsource_3',['_ALL_SOURCE',['../xstream_8h.html#a6a4f67fdf3f14cde3b17d2465bf9ebb9',1,'xstream.h']]],
+  ['_5fasy_5fgetpolicy_4',['_asy_getPolicy',['../impdatum_8cc.html#ac066ba8928711b4806672cc855ed6e0d',1,'impdatum.cc']]],
+  ['_5fasy_5fgetstate_5',['_asy_getState',['../impdatum_8cc.html#a7c48643c030d314bf4a1ea2ba02f58b6',1,'impdatum.cc']]],
+  ['_5fdraw_6',['_draw',['../three__surface_8asy.html#ab483c6c478ff760774bb6960ed97345c',1,'_draw(frame f, path3 g, triple center=O, material m, light light=currentlight, interaction interaction=Embedded):&#160;three_surface.asy'],['../plain__picture_8asy.html#a3a0c10bd46047b5d45389cccb62ad30a',1,'_draw(picture pic, path g, pen p, margin margin):&#160;plain_picture.asy']]],
+  ['_5ffdopen_7',['_fdopen',['../interact_8cc.html#a551dcb90a0029dc69c621cf0400257c5',1,'_fdopen():&#160;interact.cc'],['../fileio_8cc.html#a551dcb90a0029dc69c621cf0400257c5',1,'_fdopen():&#160;fileio.cc']]],
+  ['_5fknown_5fbound_8',['_Known_bound',['../structutils_1_1__Unique__if_3_01T_0fN_0e_4.html#a373179052ef14d528ff50010a83c2afb',1,'utils::_Unique_if&lt; T[N]&gt;']]],
+  ['_5foutpipe_9',['_outpipe',['../plain__shipout_8asy.html#a2af2d683b984f9fc645deb6cebe2f954',1,'plain_shipout.asy']]],
+  ['_5fsearchallvarfull_10',['_searchAllVarFull',['../structAsymptoteLsp_1_1SymbolContext.html#a01d999c74db92aa7c2fd5e6e745fe235',1,'AsymptoteLsp::SymbolContext::_searchAllVarFull(std::unordered_set&lt; SymbolContext * &gt; &amp;searched, std::unordered_set&lt; TArg &gt; const &amp;searchArgs, TFn const &amp;fnLocalPredicate, TFn2 const &amp;fnLocalPredicateFirst, FnCreateSymbolArgContainer&lt; TArg &gt; const &amp;fnCreateTraverse)'],['../structAsymptoteLsp_1_1SymbolContext.html#a92dde697676c15fe5d4266f143c9a082',1,'AsymptoteLsp::SymbolContext::_searchAllVarFull(TArg init, TFn const &amp;fnLocalPredicate, FnCreateSymbolArgContainer&lt; TArg &gt; const &amp;fnCreateTraverse=std::mem_fn(&amp;SymbolContext::defaultCreateTraverse&lt; TArg &gt;))']]],
+  ['_5fsearchvarfull_11',['_searchVarFull',['../structAsymptoteLsp_1_1SymbolContext.html#aea3d605cfe442e31c97641287ab2cf67',1,'AsymptoteLsp::SymbolContext::_searchVarFull(std::unordered_set&lt; SymbolContext * &gt; &amp;searched, std::unordered_set&lt; TArg &gt; const &amp;searchArgs, TFn const &amp;fnLocalPredicate, TFn2 const &amp;fnLocalPredicateFirst, FnCreateSymbolArgContainer&lt; TArg &gt; const &amp;fnCreateTraverse)'],['../structAsymptoteLsp_1_1SymbolContext.html#a464e65d3e5f5bb10874a067ae0fadb86',1,'AsymptoteLsp::SymbolContext::_searchVarFull(TArg init, TFn const &amp;fnLocalPredicate, FnCreateSymbolArgContainer&lt; TArg &gt; const &amp;fnCreateTraverse=std::mem_fn(&amp;SymbolContext::defaultCreateTraverse&lt; TArg &gt;))']]],
+  ['_5fsingle_5fobject_12',['_Single_object',['../structutils_1_1__Unique__if.html#af52b83193747862a384ccaa83ee19e3a',1,'utils::_Unique_if']]],
+  ['_5funique_5fif_13',['_Unique_if',['../structutils_1_1__Unique__if.html',1,'utils']]],
+  ['_5funique_5fif_3c_20t_5b_5d_3e_14',['_Unique_if&lt; T[]&gt;',['../structutils_1_1__Unique__if_3_01T_0f_0e_4.html',1,'utils']]],
+  ['_5funique_5fif_3c_20t_5bn_5d_3e_15',['_Unique_if&lt; T[N]&gt;',['../structutils_1_1__Unique__if_3_01T_0fN_0e_4.html',1,'utils']]],
+  ['_5funknown_5fbound_16',['_Unknown_bound',['../structutils_1_1__Unique__if_3_01T_0f_0e_4.html#aeb7fe031406fb40ad70d58b32ea2b6f9',1,'utils::_Unique_if&lt; T[]&gt;']]]
+];

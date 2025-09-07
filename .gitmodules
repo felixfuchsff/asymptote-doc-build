@@ -1,3 +1,6 @@
 [submodule "asymptote"]
 	path = asymptote
 	url = git@github.com-ff:felixfuchsff/asymptote.git
+[submodule "asymptote-doc"]
+	path = asymptote-doc
+	url = git@github.com-ff:felixfuchsff/asymptote-doc.git

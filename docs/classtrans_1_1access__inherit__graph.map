@@ -1,0 +1,13 @@
+<map id="trans::access" name="trans::access">
+<area shape="rect" id="node1" title=" " alt="" coords="92,208,193,235"/>
+<area shape="rect" id="node3" href="$classtrans_1_1bltinAccess.html" title=" " alt="" coords="261,5,388,32"/>
+<area shape="rect" id="node4" href="$classtrans_1_1callableAccess.html" title=" " alt="" coords="251,56,398,83"/>
+<area shape="rect" id="node5" href="$classtrans_1_1frameAccess.html" title=" " alt="" coords="257,107,393,133"/>
+<area shape="rect" id="node6" href="$classtrans_1_1identAccess.html" title=" " alt="" coords="259,157,390,184"/>
+<area shape="rect" id="node7" href="$classtrans_1_1itemRefAccess.html" title=" " alt="" coords="250,208,399,235"/>
+<area shape="rect" id="node8" href="$classtrans_1_1localAccess.html" title=" " alt="" coords="259,259,390,285"/>
+<area shape="rect" id="node9" href="$classtrans_1_1qualifiedAccess.html" title=" " alt="" coords="249,309,400,336"/>
+<area shape="rect" id="node10" href="$classtrans_1_1refAccess.html" title=" " alt="" coords="250,360,399,387"/>
+<area shape="rect" id="node11" href="$classtrans_1_1virtualFieldAccess.html" title=" " alt="" coords="241,411,408,437"/>
+<area shape="rect" id="node2" href="$classgc.html" title=" " alt="" coords="5,208,44,235"/>
+</map>

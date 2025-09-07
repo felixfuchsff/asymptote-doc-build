@@ -1,0 +1,7 @@
+<map id="camp::drawSurface" name="camp::drawSurface">
+<area shape="rect" id="node1" title=" " alt="" coords="115,155,249,181"/>
+<area shape="rect" id="node4" href="$classcamp_1_1drawBezierPatch.html" title=" " alt="" coords="5,229,167,256"/>
+<area shape="rect" id="node5" href="$classcamp_1_1drawBezierTriangle.html" title=" " alt="" coords="191,229,365,256"/>
+<area shape="rect" id="node2" href="$classcamp_1_1drawElement.html" title=" " alt="" coords="113,80,251,107"/>
+<area shape="rect" id="node3" href="$classgc.html" title=" " alt="" coords="163,5,201,32"/>
+</map>

@@ -1,7 +1,0 @@
-<map id="v3dfile" name="v3dfile">
-<area shape="rect" id="node1" title=" " alt="" coords="117,184,177,211"/>
-<area shape="rect" id="node2" href="$structmaterial.html" title=" " alt="" coords="5,95,73,121"/>
-<area shape="rect" id="node3" href="$structtriangleGroup.html" title=" " alt="" coords="98,95,197,121"/>
-<area shape="rect" id="node4" href="$structCameraInformation.html" title=" " alt="" coords="221,95,354,121"/>
-<area shape="rect" id="node5" href="$structlight.html" title=" " alt="" coords="264,5,311,32"/>
-</map>

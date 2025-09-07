@@ -1,8 +1,0 @@
-<map id="camp::drawClipBegin" name="camp::drawClipBegin">
-<area shape="rect" id="node1" title=" " alt="" coords="34,379,181,405"/>
-<area shape="rect" id="node2" href="$classcamp_1_1drawSuperPathPenBase.html" title=" " alt="" coords="5,304,209,331"/>
-<area shape="rect" id="node3" href="$classcamp_1_1drawPathPenBase.html" title=" " alt="" coords="22,229,193,256"/>
-<area shape="rect" id="node4" href="$classcamp_1_1drawPathBase.html" title=" " alt="" coords="34,155,181,181"/>
-<area shape="rect" id="node5" href="$classcamp_1_1drawElement.html" title=" " alt="" coords="38,80,177,107"/>
-<area shape="rect" id="node6" href="$classgc.html" title=" " alt="" coords="88,5,127,32"/>
-</map>

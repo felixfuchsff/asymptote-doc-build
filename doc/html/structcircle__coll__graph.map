@@ -1,7 +1,0 @@
-<map id="circle" name="circle">
-<area shape="rect" id="node1" title=" " alt="" coords="5,380,59,407"/>
-<area shape="rect" id="node2" href="$structline.html" title=" " alt="" coords="51,291,93,317"/>
-<area shape="rect" id="node3" href="$structvector.html" title=" " alt="" coords="109,185,168,212"/>
-<area shape="rect" id="node4" href="$structpoint.html" title=" " alt="" coords="47,95,97,121"/>
-<area shape="rect" id="node5" href="$structcoordsys.html" title=" " alt="" coords="35,5,109,32"/>
-</map>

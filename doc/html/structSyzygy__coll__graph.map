@@ -1,8 +1,0 @@
-<map id="Syzygy" name="Syzygy">
-<area shape="rect" id="node1" title=" " alt="" coords="85,395,151,421"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,60,32"/>
-<area shape="rect" id="node5" href="$structComponent.html" title=" " alt="" coords="83,124,172,151"/>
-<area shape="rect" id="node3" href="$structBraid.html" title=" " alt="" coords="92,305,144,332"/>
-<area shape="rect" id="node4" href="$structBraid_1_1Placement.html" title=" " alt="" coords="101,215,223,241"/>
-<area shape="rect" id="node6" href="$structSyzygy_1_1Move.html" title=" " alt="" coords="169,305,275,332"/>
-</map>

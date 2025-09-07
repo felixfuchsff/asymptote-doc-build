@@ -1,7 +1,0 @@
-<map id="grid3" name="grid3">
-<area shape="rect" id="node1" title=" " alt="" coords="40,288,91,315"/>
-<area shape="rect" id="node2" href="$structbounds.html" title=" " alt="" coords="5,199,69,225"/>
-<area shape="rect" id="node3" href="$structticklocate.html" title=" " alt="" coords="94,199,173,225"/>
-<area shape="rect" id="node4" href="$structautoscaleT.html" title=" " alt="" coords="90,109,177,136"/>
-<area shape="rect" id="node5" href="$structscaleT.html" title=" " alt="" coords="103,5,164,32"/>
-</map>

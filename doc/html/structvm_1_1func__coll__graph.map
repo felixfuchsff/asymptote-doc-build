@@ -1,8 +1,0 @@
-<map id="vm::func" name="vm::func">
-<area shape="rect" id="node1" title=" " alt="" coords="127,272,200,299"/>
-<area shape="rect" id="node2" href="$structvm_1_1callable.html" title=" " alt="" coords="5,132,97,159"/>
-<area shape="rect" id="node3" href="$classgc.html" title=" " alt="" coords="141,5,180,32"/>
-<area shape="rect" id="node4" href="$structvm_1_1lambda.html" title=" " alt="" coords="118,183,209,209"/>
-<area shape="rect" id="node5" href="$classvm_1_1program.html" title=" " alt="" coords="156,81,251,108"/>
-<area shape="rect" id="node6" href="$classvm_1_1vmFrame.html" title=" " alt="" coords="228,132,331,159"/>
-</map>

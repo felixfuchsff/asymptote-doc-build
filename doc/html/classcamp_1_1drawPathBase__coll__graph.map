@@ -1,9 +1,0 @@
-<map id="camp::drawPathBase" name="camp::drawPathBase">
-<area shape="rect" id="node1" title=" " alt="" coords="232,259,379,285"/>
-<area shape="rect" id="node2" href="$classcamp_1_1drawElement.html" title=" " alt="" coords="171,183,309,209"/>
-<area shape="rect" id="node3" href="$classgc.html" title=" " alt="" coords="199,5,238,32"/>
-<area shape="rect" id="node4" href="$classcamp_1_1pen.html" title=" " alt="" coords="5,81,88,108"/>
-<area shape="rect" id="node5" href="$classcamp_1_1triple.html" title=" " alt="" coords="112,81,203,108"/>
-<area shape="rect" id="node7" href="$classcamp_1_1path.html" title=" " alt="" coords="327,132,414,159"/>
-<area shape="rect" id="node6" title=" " alt="" coords="278,81,333,108"/>
-</map>

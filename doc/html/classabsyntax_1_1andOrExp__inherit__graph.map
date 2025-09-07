@@ -1,9 +1,0 @@
-<map id="absyntax::andOrExp" name="absyntax::andOrExp">
-<area shape="rect" id="node1" title=" " alt="" coords="71,304,213,331"/>
-<area shape="rect" id="node6" href="$classabsyntax_1_1andExp.html" title=" " alt="" coords="5,379,132,405"/>
-<area shape="rect" id="node7" href="$classabsyntax_1_1orExp.html" title=" " alt="" coords="157,379,274,405"/>
-<area shape="rect" id="node2" href="$classabsyntax_1_1exp.html" title=" " alt="" coords="90,229,194,256"/>
-<area shape="rect" id="node3" href="$classabsyntax_1_1varinit.html" title=" " alt="" coords="83,155,201,181"/>
-<area shape="rect" id="node4" href="$classabsyntax_1_1absyn.html" title=" " alt="" coords="83,80,201,107"/>
-<area shape="rect" id="node5" href="$classgc.html" title=" " alt="" coords="123,5,161,32"/>
-</map>

@@ -53,7 +53,7 @@ def commit(msg:str):
 if __name__ == "__main__":
     argv = sys.argv
     if len(argv) == 1:
-        build()
+        build()        
         deploy()
         cleanup()
     elif len(argv) == 2:

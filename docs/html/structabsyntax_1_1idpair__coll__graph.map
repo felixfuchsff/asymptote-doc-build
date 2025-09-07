@@ -1,8 +1,0 @@
-<map id="absyntax::idpair" name="absyntax::idpair">
-<area shape="rect" id="node1" title=" " alt="" coords="73,307,187,333"/>
-<area shape="rect" id="node2" href="$classabsyntax_1_1absyn.html" title=" " alt="" coords="5,187,124,213"/>
-<area shape="rect" id="node3" href="$classgc.html" title=" " alt="" coords="12,5,51,32"/>
-<area shape="rect" id="node4" href="$classposition.html" title=" " alt="" coords="53,81,119,108"/>
-<area shape="rect" id="node5" href="$structsym_1_1symbol.html" title=" " alt="" coords="148,187,245,213"/>
-<area shape="rect" id="node6" href="$structsym_1_1GCInit.html" title=" " alt="" coords="150,81,243,108"/>
-</map>

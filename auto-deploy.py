@@ -40,6 +40,16 @@ def cleanup():
     execute_cmd('git push origin master')
 
 
+def commit(msg:str):
+    cmds = [
+        'git -C asymptote config --local user.name FF',
+        'git -C asymptote config --local user.email felixfuchsff@users.noreplay.github.com',
+        f'git -C asymptote commit -a -m {msg}'
+    ]
+    for cmd in cmds:
+        execute_cmd(cmd)
+
+
 if __name__ == "__main__":
     argv = sys.argv
     if len(argv) == 1:
@@ -56,8 +66,12 @@ if __name__ == "__main__":
             cleanup()
         else:
             raise RuntimeError(f"invalid cmd {cmd}")
+    elif len(argv) == 3:
+        cmd = argv[1]
+        msg = argv[2]
+        commit(msg)
     else:
-        raise RuntimeError("ony zero or one cmd is accepted")
+        raise RuntimeError("ony zero or one cmd OR commit is accepted")
 
 
 

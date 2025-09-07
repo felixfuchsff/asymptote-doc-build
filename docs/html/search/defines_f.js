@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['tr_5fmajor_5fversion_12304',['TR_MAJOR_VERSION',['../tr_8h.html#a7f11376022570372a5d2afec8be5bb45',1,'tr.h']]],
+  ['tr_5fminor_5fversion_12305',['TR_MINOR_VERSION',['../tr_8h.html#a00e32e02fcc1df8bdbdfa48ba39ed311',1,'tr.h']]],
+  ['tr_5fversion_12306',['TR_VERSION',['../tr_8h.html#ac78033ee9b99559b5d3b8d1971262f8c',1,'tr.h']]],
+  ['two_5fdiff_12307',['Two_Diff',['../predicates_8cc.html#ac60bb459f7540f5717747fbef47e62b4',1,'predicates.cc']]],
+  ['two_5fdiff_5ftail_12308',['Two_Diff_Tail',['../predicates_8cc.html#a636a9c6e1b1171cbf745575166954389',1,'predicates.cc']]],
+  ['two_5fone_5fdiff_12309',['Two_One_Diff',['../predicates_8cc.html#a5315d6436a90d87938ae9df8a408de67',1,'predicates.cc']]],
+  ['two_5fone_5fproduct_12310',['Two_One_Product',['../predicates_8cc.html#ab4cdb5eb173ed61eb35e082b0a4a6043',1,'predicates.cc']]],
+  ['two_5fone_5fsum_12311',['Two_One_Sum',['../predicates_8cc.html#aac797f696ef3cee9ffd42c36f8990185',1,'predicates.cc']]],
+  ['two_5fproduct_12312',['Two_Product',['../predicates_8cc.html#a27f5145ac554d28b9c257ac0909d055b',1,'predicates.cc']]],
+  ['two_5fproduct_5f2presplit_12313',['Two_Product_2Presplit',['../predicates_8cc.html#afbc2a37f0c0de1cb35f8ebf5cca260de',1,'predicates.cc']]],
+  ['two_5fproduct_5fpresplit_12314',['Two_Product_Presplit',['../predicates_8cc.html#a4b7fb41ff1c60fa3b701bc405a5c5e46',1,'predicates.cc']]],
+  ['two_5fproduct_5ftail_12315',['Two_Product_Tail',['../predicates_8cc.html#ac9dcc9500c883fdac1acdf11127ae886',1,'predicates.cc']]],
+  ['two_5fsquare_12316',['Two_Square',['../predicates_8cc.html#a25633714f30f83c17409803936779987',1,'predicates.cc']]],
+  ['two_5fsum_12317',['Two_Sum',['../predicates_8cc.html#aa559790796899b51e5f0afcb2dfb8ed7',1,'predicates.cc']]],
+  ['two_5fsum_5ftail_12318',['Two_Sum_Tail',['../predicates_8cc.html#a367e02bc95e29a48c4815fcd63806f64',1,'predicates.cc']]],
+  ['two_5ftwo_5fdiff_12319',['Two_Two_Diff',['../predicates_8cc.html#ab4f08ad5dba11bbdf27b64132824b3a3',1,'predicates.cc']]],
+  ['two_5ftwo_5fproduct_12320',['Two_Two_Product',['../predicates_8cc.html#a98c18d11899b6f43f7880545414e6667',1,'predicates.cc']]],
+  ['two_5ftwo_5fsum_12321',['Two_Two_Sum',['../predicates_8cc.html#ae3c61622ca0206f23311a66c864f8fff',1,'predicates.cc']]]
+];

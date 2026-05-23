@@ -29,6 +29,8 @@ def build() -> int:
     
 
 def deploy() -> int:
+    execute_cmd('git -C asymptote-doc config user.name ff')
+    execute_cmd('git -C asymptote-doc config user.email ff@noreply-github.com')
     execute_cmd('git -C asymptote-doc add .')
     execute_cmd('git -C asymptote-doc commit -a -m "auto deploy"')
     execute_cmd('git -C asymptote-doc push origin master')

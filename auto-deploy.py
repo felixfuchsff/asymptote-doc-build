@@ -32,13 +32,13 @@ def deploy() -> int:
     execute_cmd('git -C asymptote-doc config user.name ff')
     execute_cmd('git -C asymptote-doc config user.email ff@noreply-github.com')
     execute_cmd('git -C asymptote-doc add .')
-    execute_cmd('git -C asymptote-doc commit -a -m "auto deploy"')
+    execute_cmd('git -C asymptote-doc commit -a -m "auto deploy doc"')
     execute_cmd('git -C asymptote-doc push origin master')
     return 0
 
 def cleanup():
     execute_cmd('rm -rf tmp')
-    execute_cmd('git commit -a -m "auto deploy"')
+    execute_cmd('git commit -a -m "auto clean after deploy"')
     execute_cmd('git push origin master')
 
 
